@@ -82,8 +82,13 @@ This approach works efficiently because hash set operations (insertion & lookup)
     cd Neetcode-150-Course/001-Contains-Duplicate
     ```
 
-1. Compile and run the program:  
+3. Compile and run the program:  
+    BASH Command
     ```bash
+    g++ Contains-Duplicate-Solution.cpp -o Contains-Duplicate-Solution && ./Contains-Duplicate-Solution
+    ```
+    CMD Command
+    ```cmd
     g++ Contains-Duplicate-Solution.cpp -o Contains-Duplicate-Solution && Contains-Duplicate-Solution
     ```
 
